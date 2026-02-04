@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Victoria
 [instagram]: https://www.instagram.com/Victoria
-[linkedin]: https://linkedin.com/in/Victoria Brewer
+[linkedin]: https://linkedin.com/in/VictoriaBrewer
