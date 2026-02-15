@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Brewer219/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Brewer219/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Group Policy and Account Management](https://github.com/Brewer219/group-policy-account-management) 
+  - [Group Policy and Account Management](https://github.com/Brewer219/Group-Policy)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Brewer219/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
