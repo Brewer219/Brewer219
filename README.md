@@ -9,6 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Group Policy and Account Management](https://github.com/Brewer219/Group-Policy)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Brewer219/azure-network-protocols)
+  - [Help Desk Level 1 Professional](https://github.com/Brewer219/help-desk-level-1)
+  - [Help Desk Level 2 Professional](https://github.com/Brewer219/help-desk-level-2)
+    
 
 <h2>🤳Connect with me:</h2>
 
