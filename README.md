@@ -9,8 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Group Policy and Account Management](https://github.com/Brewer219/Group-Policy)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Brewer219/azure-network-protocols)
-- <b>My Additional Projects</b>
+- <b>Apps I Built For Additional Projects</b>
    - [Compliance Tracking System App](https://github.com/Brewer219/Compliance-Tracking-System-App)
+- <b>Microsoft Entra</b>
    - [Utilization Of Entra ID](https://github.com/Brewer219/Utilization-Of-Entra-ID)
      
   
